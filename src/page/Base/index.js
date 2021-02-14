@@ -53,7 +53,7 @@ const Base = function () {
                     </Menu.Item>
                     <Menu.SubMenu key="sub" label="create">
                         <Menu.Item key="sub-1">
-                            <Link to={'/awb/create'}>create</Link>
+                            <Link to={'/document/new'}>create</Link>
                         </Menu.Item>
 
                     </Menu.SubMenu>
